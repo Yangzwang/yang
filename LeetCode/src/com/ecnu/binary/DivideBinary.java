@@ -9,6 +9,7 @@ public class DivideBinary {
     public static int divide(int dividend, int divisor) {
         boolean sign = (dividend > 0) ^ (divisor > 0);
         int result = 0;
+
         if (dividend > 0) {
             dividend = -dividend;
         }
