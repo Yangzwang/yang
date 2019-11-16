@@ -3,7 +3,7 @@ package com.ecnu.binary;
 public class DivideBinary {
 
     public static void main(String[] args) {
-        System.out.println(divide(7, -3));
+        System.out.println(divide(6, -3));
     }
 
     public static int divide(int dividend, int divisor) {
