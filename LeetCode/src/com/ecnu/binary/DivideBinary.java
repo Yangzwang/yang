@@ -35,7 +35,5 @@ public class DivideBinary {
 
         System.out.println("w");
     }
-      private void hee(){
-        System.out.println("w");
-    }
+
 }

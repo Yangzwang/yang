@@ -6,4 +6,5 @@ package com.ecnu.binary;
  * @Description: 测试分支
  */
 public class Test {
+    //对对对
 }
